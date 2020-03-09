@@ -1,0 +1,25 @@
+[1mdiff --git a/calculator.cs b/calculator.cs[m
+[1mindex b3aa2af..1ae5ae1 100644[m
+[1m--- a/calculator.cs[m
+[1m+++ b/calculator.cs[m
+[36m@@ -1,8 +1,16 @@[m
+ //19.11.2656[m
+ class Calculator[m
+ {[m
+[31m-	static void Main(strings[] args)[m
+[32m+[m	[32mstatic void Main(string[] args)[m
+ 	{[m
+[31m-		[m
+[32m+[m
+ 	}[m
+[31m-}[m
+\ No newline at end of file[m
+[32m+[m
+[32m+[m	[32mstatic int Penambahan(int a, int b)[m
+[32m+[m	[32m{[m
+[32m+[m		[32mreturn a + b;[m
+[32m+[m	[32m}[m
+[32m+[m
+[32m+[m[41m	[m
+[32m+[m[32m}[m
+[41m+[m
